@@ -1,4 +1,4 @@
-# Taller 1 Programación Declarativa
+# Taller 2 Programación Declarativa
 
 | Estudiante | Carné |
 |------------|------------|
